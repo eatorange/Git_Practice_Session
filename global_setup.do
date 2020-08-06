@@ -79,3 +79,8 @@
    * here, and reference this each time a currency conversion is done. If 
    * the currency exchange rate needs to be updated, then it only has to
    * be done at one place for the whole project.
+
+   
+   
+   
+	* I add this line to pratice a new commit
